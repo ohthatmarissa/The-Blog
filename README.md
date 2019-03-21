@@ -6,7 +6,7 @@
 
 ## Description
 
-_Created a simple band web page to practice divs and spans_
+_Created a simple blog web page to practice divs and spans_
 
 ## Setup/Installation Requirements
 
